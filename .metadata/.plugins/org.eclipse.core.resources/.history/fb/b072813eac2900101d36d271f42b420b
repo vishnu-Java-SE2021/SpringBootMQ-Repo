@@ -1,0 +1,10 @@
+spring.application.name=01SpringBoot-MessagingQueue-PTP
+
+
+#MQ properties
+spring.activemq.broker-url=tcp://localhost:61616
+spring.activemq.user=admin
+spring.activemq.password=admin
+
+#PTP model MQ
+spring.jms.pub-sub-domain=false

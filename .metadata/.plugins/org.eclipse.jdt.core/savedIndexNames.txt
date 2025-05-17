@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\0-Repositories\SpringMessaging-Repo\.metadata\.plugins\org.eclipse.jdt.core
+3987889090.index
+1865797976.index
+1955511630.index
+3614671358.index
